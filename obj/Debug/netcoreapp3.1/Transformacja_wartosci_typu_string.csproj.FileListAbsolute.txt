@@ -1,0 +1,13 @@
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\bin\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.exe
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\bin\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.deps.json
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\bin\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.runtimeconfig.json
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\bin\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.runtimeconfig.dev.json
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\bin\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.dll
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\bin\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.pdb
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\obj\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.csprojAssemblyReference.cache
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\obj\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.AssemblyInfoInputs.cache
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\obj\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.AssemblyInfo.cs
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\obj\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\obj\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.dll
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\obj\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.pdb
+E:\PROGRAMMING\C#\PROGRAMS\Transformacja_wartosci_typu_string\obj\Debug\netcoreapp3.1\Transformacja_wartosci_typu_string.genruntimeconfig.cache
